@@ -28,6 +28,6 @@ if(!$exists) {
 <meta http-equiv="refresh" content="21600">
 </head>
 <body style="font-family: sans-serif">
-<p><?=$pathToPdf?></p>
+<a href="<?=$pathToPdf?>">Today's New York Times front page</a>
 </body>
 </http>
