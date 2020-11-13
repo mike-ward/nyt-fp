@@ -22,7 +22,12 @@ if(!$exists) {
 }
 
 ?>
+<!DOCTYPE html>
+<http lang=en>
+<head>
 <meta http-equiv="refresh" content="21600">
+</head>
 <body style="margin-top:-100px;margin-left:-27px">
-<p><?=$pathToPdf?><p>
+<p><?=$pathToPdf?></p>
 </body>
+</http>
