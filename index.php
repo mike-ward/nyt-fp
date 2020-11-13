@@ -27,7 +27,7 @@ if(!$exists) {
 <head>
 <meta http-equiv="refresh" content="21600">
 </head>
-<body style="margin-top:-100px;margin-left:-27px">
+<body style="font-family: sans-serif">
 <p><?=$pathToPdf?></p>
 </body>
 </http>
